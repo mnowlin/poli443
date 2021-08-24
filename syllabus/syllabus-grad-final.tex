@@ -1,0 +1,89 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,
+            anchorcolor=blue]{hyperref}
+\usepackage{natbib}
+\usepackage{bibentry}
+\bibliographystyle{plain}
+\setcounter{secnumdepth}{0}
+\usepackage{datetime}
+\usepackage{advdate}
+\usepackage{fontawesome}
+\newdateformat{syldate}{\shortmonthname[{\THEMONTH}] \THEDAY}
+\newsavebox{\MONDAY}\savebox{\MONDAY}{Mon}% Mon
+
+\newcommand{\week}{%
+  \paragraph*{\syldate{\today}-\AdvanceDate[2]\syldate{\today}:}% Set heading \quad #1
+  \ifdim\wd1=\wd\MONDAY
+  \AdvanceDate[2]
+  \else
+  \AdvanceDate[7]
+  \fi%
+}
+
+
+\begin{document}
+
+
+\nobibliography{/Users/nowlinmc/Dropbox/refs.bib}
+
+
+
+\begin{center}
+\bigskip
+
+% course title
+{\Large{\bf{Governance of Social-Ecological Systems}}}
+
+% course number
+\textsc{EVSS 595: Special Topics}
+
+% semester 
+\textsc{Fall 2021}
+
+\vspace{0.15in}
+
+% meeting time and location 
+\textsc{Maybank 316} 
+
+\textsc{3:25pm - 4:40pm MW}  
+\end{center}
+
+\vspace{0.25in}
+
+% \begin{tabular}{r@{\hspace{1.5in}}ll}
+% \faMale \hspace{0.005in} Dr. Matthew Nowlin & \faEnvelopeO \hspace{0.005in} \href{mailto:nowlinmc@cofc.edu}{\underline{nowlinmc@cofc.edu}} \\
+% \faCommentsO \hspace{0.005in} Wednesdays 1:00pm - 3:00pm (Zoom) & \\ 
+% \hline
+% \end{tabular}
+
+\faMale \hspace{0.005in} Dr. Matthew Nowlin 
+
+\vspace{0.05in}
+\faExternalLink \hspace{0.005in} \href{https://www.matthewcnowlin.com/}{\underline{matthewcnowlin.com}} 
+
+\vspace{0.05in}
+\faEnvelopeO \hspace{0.005in} \href{mailto:nowlinmc@cofc.edu}{\underline{nowlinmc@cofc.edu}} 
+
+\vspace{0.05in}
+\faCommentsO \hspace{0.005in} \textbf{Office hours:} \href{https://calendly.com/nowlinmc/meetings}{\underline{By appointment}} (on Zoom)
+
+\setlength{\unitlength}{1in}
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}
+\vspace{-1in}         
+\end{picture}
+
+\input{syllabus-grad-body.tex}
+
+\input{syllabus-grad-schedule.tex}
+
+\input{important-info.tex}
+  
+\end{document}
