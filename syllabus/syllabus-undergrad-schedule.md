@@ -71,7 +71,7 @@ I also provide several links to web based sources. You can access these sources 
 	* AJ, Chapter 3: _Action Arenas and Action Situations_ 
 
 * _Assignments_:
-	* Reflection paper 3
+	* Reflection paper 4
 
 \week \textbf{Design Principles}
 
@@ -79,7 +79,7 @@ I also provide several links to web based sources. You can access these sources 
 	* AJ, Chapter 7: _Design Principles to Sustain the Commons_ 
 
 * _Assignments_:
-	* Reflection paper 4
+	* Reflection paper 5
 
 \week \textbf{Rules}
 
@@ -104,7 +104,7 @@ I also provide several links to web based sources. You can access these sources 
 	* AJ, Chapter 13: _Coupled Infrastructure Systems_ 
 
 * _Assignments_:
-	* Reflection paper 5
+	* Reflection paper 6
 
 \week \textbf{Resilience of Social-Ecological Systems}
 
@@ -113,7 +113,7 @@ I also provide several links to web based sources. You can access these sources 
 	* Anderies, John M., and Marco A. Janssen. 2013. “Robustness of Social-Ecological Systems: Implications for Public Policy.” _Policy Studies Journal_ 41(3): 513—536. 
 
 * _Assignments_:
-	* Reflection paper 6
+	* Reflection paper 7
 
 \week \textbf{Polycentricity}
 
@@ -130,15 +130,12 @@ I also provide several links to web based sources. You can access these sources 
 	* Berardo, Ramiro, and Mark Lubell. 2019. “The Ecology of Games as a Theory of Polycentricity: Recent Advances and Future Challenges.” _Policy Studies Journal_ 47(1): 6—26. 
 
 * _Assignments_:
-	* Reflection paper 7
+	* Reflection paper 8
 
 \week \textbf{Conclusion}
 
 * _Readings_: 
 	* Cox, Michael et al. 2021. “Lessons Learned from Synthetic Research Projects Based on the Ostrom Workshop Frameworks.” _Ecology and Society_ 26(1). 
-
-* _Assignments_:
-	* Reflection paper 8
 
 * **THANKSGIVING BREAK: Nov 24-26**
 

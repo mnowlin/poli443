@@ -111,7 +111,7 @@ class: title title-1
 
 - Email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
 
-- Office hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
+- ~~Office~~ Student hours (Zoom only): Use the [Calendly link](https://calendly.com/nowlinmc/meetings) on the syllabus and on OAKS  
 
 - **Public Policy Concentration** 
 
@@ -214,7 +214,7 @@ class: title title-1
 
 * I may call on you to answer a question or discuss your case study 
 
-* Laptops are allowed, but discouraged 
+* Laptops are allowed, but (only somewhat) discouraged 
 
 * Phones should remain put away
 
@@ -278,12 +278,7 @@ class: title title-1
 # Late Work Policy 
 
 * 48-hour grace period: _can still turn in work with no late penalty_  
-
---
-
 * After grace period, 10% deduction for each 24 hr period its late 
-
---
 
 * After 72 hours beyond grace period, assignment will not be accepted 
 
@@ -352,7 +347,7 @@ class: title title-1
 * **SKIM**: Cox, Michael. 2019. “_Using the Ostrom Workshop Frameworks to Study the Commons_.”
 * **AJ**, Chapter 1: _Why Study the Commons_? 
 * [The Tragedy of the _Tragedy of the Commons_](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/) 
-* Ostrom, Elinor. 2008. “The Challenge of Common-Pool Resources.” _Environment: Science and Policy for Sustainable Development_ 50(4): 8—21. 
+* **SKIM**: Ostrom, Elinor. 2008. “The Challenge of Common-Pool Resources.” _Environment: Science and Policy for Sustainable Development_ 50(4): 8—21. 
 
 ---
 
@@ -364,9 +359,19 @@ class: title title-1
 
 **Readings (Grads)**:
 
-* **SKIM:** Frischmann, Brett M., Alain Marciano, and Giovanni Battista Ramello. 2019. “Retrospectives: Tragedy of the Commons after 50 Years.” _Journal of Economic Perspectives_ 33(4): 211–28.
+* Frischmann, Brett M., Alain Marciano, and Giovanni Battista Ramello. 2019. “Retrospectives: Tragedy of the Commons after 50 Years.” _Journal of Economic Perspectives_ 33(4): 211–28.
 
+---
 
+class: title title-1
+
+# For Next Time 
+
+**Common-Pool Resources** 
+
+**Assignments (Everyone)**: 
+
+* Reaction paper 1, **Monday at 3:25** 
 
 
 

@@ -32,8 +32,8 @@ I also provide several links to web based sources. You can access these sources 
 * _Readings_: 
 	* **AJ**, Chapter 1: _Why Study the Commons_? 
 	* [The Tragedy of the _Tragedy of the Commons_](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/) 
-	* Ostrom, Elinor. 2008. “The Challenge of Common-Pool Resources.” _Environment: Science and Policy for Sustainable Development_ 50(4): 8—21. 
-	
+	* **SKIM**: Ostrom, Elinor. 2008. “The Challenge of Common-Pool Resources.” _Environment: Science and Policy for Sustainable Development_ 50(4): 8—21. 
+	* Frischmann, Brett M., Alain Marciano, and Giovanni Battista Ramello. 2019. “Retrospectives: Tragedy of the Commons after 50 Years.” _Journal of Economic Perspectives_ 33(4): 211–28.	
 
 * _Assignments_:
 	* Reflection paper 1 
@@ -77,7 +77,7 @@ I also provide several links to web based sources. You can access these sources 
 	* McGinnis, Michael D. 2011. “Networks of Adjacent Action Situations in Polycentric Governance.” _Policy Studies Journal_ 39(1): 51—78. 
 
 * _Assignments_:
-	* Reflection paper 3
+	* Reflection paper 4
 
 \week \textbf{Design Principles}
 
@@ -86,7 +86,7 @@ I also provide several links to web based sources. You can access these sources 
 	* Cox, Michael, Gwen Arnold, and Sergio Villamayor Tomás. 2010. “A Review of Design Principles for Community-Based Natural Resource Management.” _Ecology and Society_ 15(4). 
 
 * _Assignments_:
-	* Reflection paper 4
+	* Reflection paper 5
 
 \week \textbf{Rules}
 
@@ -97,7 +97,7 @@ I also provide several links to web based sources. You can access these sources 
 	* Siddiki, Saba et al. 2019. “Institutional Analysis with the Institutional Grammar.” _Policy Studies Journal_, Forthcoming. 
 
 * _Assignments_: 
-	* **Case study part II DUE: Oct 13**
+	* **Research design part II DUE: Oct 13**
 
 \week \textbf{The Social-Ecological Systems Framework}
 
@@ -115,7 +115,7 @@ I also provide several links to web based sources. You can access these sources 
 	* Rammel, Christian, Sigrid Stagl, and Harald Wilfing. 2007. “Managing Complex Adaptive Systems -- a Co-Evolutionary Perspective on Natural Resource Management.” _Ecological Economics_ 63(1): 9—21. 
 
 * _Assignments_:
-	* Reflection paper 5
+	* Reflection paper 6
 
 \week \textbf{Resilience of Social-Ecological Systems}
 
@@ -125,7 +125,7 @@ I also provide several links to web based sources. You can access these sources 
 	* Anderies, John M., and Marco A. Janssen. 2013. “Robustness of Social-Ecological Systems: Implications for Public Policy.” _Policy Studies Journal_ 41(3): 513—536.
 
 * _Assignments_:
-	* Reflection paper 6
+	* Reflection paper 7
 
 \week \textbf{Polycentricity}
 
@@ -144,16 +144,13 @@ I also provide several links to web based sources. You can access these sources 
 	* Lubell, Mark. 2013. “Governing Institutional Complexity: The Ecology of Games Framework.” _Policy Studies Journal_ 41(3): 537—559. 
 
 * _Assignments_:
-	* Reflection paper 7
+	* Reflection paper 8
 
 \week \textbf{Conclusion}
 
 * _Readings_: 
 	* Cox, Michael et al. 2021. “Lessons Learned from Synthetic Research Projects Based on the Ostrom Workshop Frameworks.” _Ecology and Society_ 26(1). 
 	* Villamayor-Tomas, Sergio et al. 2020. “Using Case Study Data to Understand SES Interactions: A Model-Centered Meta-Analysis of SES Framework Applications.” _Current Opinion in Environmental Sustainability_ 44: 48—57. 
-
-* _Assignments_:
-	* Reflection paper 8
 
 * **THANKSGIVING BREAK: Nov 24-26**
 
