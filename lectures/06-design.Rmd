@@ -1,0 +1,206 @@
+---
+title: "Design Principles"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Design <br> Principles 
+
+<br>
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 443 - EVSS 595: Governance of Social-Ecological Systems**
+
+**Fall 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: center, middle 
+
+# What is the best set of rules to govern the commons?
+
+???
+Ostrom documentary: https://www.pbs.org/video/actual-world-possible-future-09rkab/ 
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+1. Clearly defined boundaries
+2. Proportional equivalence between benefits and costs
+3. Collective-choice arrangements
+4. Monitoring
+5. Graduated sanctions
+6. Conflict-resolution mechanisms
+7. Minimal recognition of rights to organize
+8. Nested enterprises
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**1. Clearly defined boundaries** 
+
+_The boundaries of the **resource system** (e.g., irrigation system or fishery) and the **individuals or households with rights to harvest resource units** are clearly defined_.
+
+--
+
+_How can we better define the boundaries of this resource and of the individuals who are using it so as to make clear who is authorized to harvest and where harvesting is authorized?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**2. Proportional equivalence between benefits and costs** 
+
+_Rules specifying the amount of resource products that a user is allocated are related to local conditions and to rules requiring labor, materials, and/or money inputs._
+
+--
+
+_How can we clarify the relationship between the benefits received and the contributions to the costs of sustaining this system?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**3. Collective-choice arrangements** 
+
+_Many of the individuals affected by harvesting and protection rules are included in the group that can modify these rules._ 
+
+--
+
+_How can we enhance the participation of those involved in making key decisions about this system?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**4. Monitoring**
+
+_Monitors, who actively audit biophysical conditions and user behavior, are at least partially accountable to the users and/or are the users themselves_ 
+
+--
+
+_Who is monitoring this system and do they face appropriate incentives given the challenge of monitoring?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**5. Graduated sanctions**
+
+_Users who violate rules-in-use are likely to receive graduated sanctions (depending on the seriousness and context of the offense) from other users, from officials accountable to these users, or from both_ 
+
+--
+
+_What are the sanctions we are authorizing and can they be adjusted so that someone who makes an error or a small rule infraction is sufficiently warned so as to ensure longer-term compliance without our trying to impose unrealistic sanctions?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**6. Conflict-resolution mechanisms**
+
+_Users and their officials have rapid access to low-cost, local action situations to resolve conflict among users or between users and officials._
+
+--
+
+_What local and regional mechanisms exist to resolve conflicts arising over the use of this resource?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**7. Minimal recognition of rights to organize**
+
+_The rights of users to devise their own institutions are not challenged by external governmental authorities, and users have long-term tenure rights to the resource._ 
+
+--
+
+_Are there functional and creative efforts by local appropriators to craft effective stewardship mechanisms for local resources that should be recognized?_
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**8. Nested enterprises** 
+
+_Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises_ 
+
+--
+
+_How do we create a multiple-layer, polycentric system that can be dynamic, adaptive, and effective over time?_ 
+
+---
+
+class: title title-1
+
+# Design Principles 
+
+**Threats to sustainable use of the commons** 
+
+* Rapid exogenous changes
+
+* Translation failures
+
+* Blueprint thinking
+
+* Corruption and rent seeking
+
+* Lack of large-scale supportive institutions
+
+
