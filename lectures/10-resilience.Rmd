@@ -1,0 +1,610 @@
+---
+title: "Resilience"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Resilience
+
+<br>
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**POLI 443 - EVSS 595: Governance of Social-Ecological Systems**
+
+**Fall 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+# SESYNC Video
+
+<center>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ikT58dCH5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+class: title title-1 
+
+# Complex Adaptive Systems 
+
+--
+
+**Dynamical systems with many components that interact in ways that result in _emergent_ behaviors that are often unpredictable using current methods and technologies** 
+
+--
+
+_Consists of heterogeneous collections of individual agents that interact locally, and evolve in their genetics, behaviors, or spatial distributions based on the outcome of those interactions_ 
+
+--
+
+**Creates uncertainty where static equilibrium states are difficult to predict**
+
+---
+
+class: title title-1 
+
+# Complex Adaptive Systems 
+
+**Involve**: 
+* Systems of nested systems (Nested hierarchies) 
+* Multiplicity of cross-scale interactions
+* Feedback loops between different hierarchical levels 
+
+
+
+---
+
+class: title title-1 
+
+# Complex Adaptive Systems
+
+**Emergence** 
+* _The whole is better than the sum of the parts_ 
+
+--
+* The aggregate exhibits properties not attained by summation 
+
+--
+* Non-linear 
+
+--
+* Hierarchy: aggregates at one level become _building blocks_ for emergent properties at a higher level 
+ * e.g., wetness is an emergent property of the aggregation of $H_2O$ molecules 
+---
+
+class: title title-1 
+
+# Complex Adaptive Systems
+
+**Behaviors of complex adaptive systems** 
+* Emergence 
+
+--
+* Self-organization in patterns 
+
+--
+* Chaotic: small changes produce large changes 
+
+--
+* Fat-tailed: rare events more often than expected under a normal distribution 
+
+--
+* Adaptive interaction: interacting agents modify their strategies in diverse ways as experience accumulates 
+
+---
+
+class: title title-1 
+
+# Complex Adaptive Systems
+
+**Co-evolution** 
+
+_we conceive co-evolution as dynamic interactions between two or more interdependent systems, which account mutually for each other's development_ 
+
+--
+
+**Across three hierarchical (semi-autonomous) levels** 
+* natural resources
+* institutions and social organizations
+* individual behavior  
+
+---
+
+class: title title-1
+
+# Resilience 
+
+--
+
+**The capacity of a system to absorb disturbance and re-organize while undergoing change so as to still retain essentially the same function, structure, identity and feedbacks**  
+
+.tiny[-Folke, Carl. 2006. "Resilience: The Emergence of a Perspective for Social–Ecological Systems Analyses." _Global Environmental Change_ 16(3): 253–67.
+]
+
+--
+
+The ability of a system to remain within one _regime_ 
+
+--
+
+**Regime**: self-reinforcing states of attraction; "steady state", "equilibrium" 
+* Feedback 
+
+---
+
+class: title title-1
+
+# Resilience 
+
+**Resilience reflects the degree to which a complex adaptive system is capable of self-organization (versus lack of organization or organization forced by external factors) and the degree to which the system can build and sustain the capacity for learning and adaptation** 
+
+.tiny[-Norberg, Jon, James Wilson, Brian Walker, and Elinor Ostrom. 2008. “Diversity and Resilience of Social-Ecological Systems.” In Complexity Theory for a Sustainable Future, eds. Jon Norberg and Graeme S. Cumming. New York, NY: Columbia University Press, 46–79.
+]
+
+--
+
+**Adaptive capacity**: _the capacity of the system to alter the relative abundance of its components without significant changes in critical system functions_ 
+
+---
+
+class: center, middle 
+
+# How can social-ecological systems be made more resilient? 
+
+---
+
+class: title title-1
+
+# Diversity 
+
+--
+
+_There is a growing recognition that diversity is a key requirement for long-term (sustainable) functioning of systems -- biological and social_ 
+
+--
+
+**Diversity and redundancy** 
+
+--
+
+Assume a group of units with 10 attributes 
+* Redundancy: all units have the same values for each attribute 
+* Diversity: differences in values in one or another attribute 
+
+---
+
+class: title title-1
+
+# Ecosystem Management 
+
+**Ecological systems (ecosystems)**: geographic areas where living entities (plants, animals, and other organisms) and nonliving entities (including water, air, and soil) interact in mutually interdependent ways
+
+---
+
+class: title title-1
+
+# Ecosystem Management 
+
+**Ecosystem management**: seeks to preserve, sustain, and secure whole ecosystems and the qualities of ecosystems that are deemed valuable 
+
+* Trade-off competing social, cultural, and environmental values
+* _Ecosystem services_
+  * benefits ecosystems provide to humans 
+  * **generated by structures or processes sustained by one or several species** 
+
+---
+
+class: title title-1
+
+#  Biodiversity and Ecosystem Services
+
+**Biodiversity**: _count the number of species in a certain place, also known as "species richness."_ 
+
+--
+
+The term captures two notions: 
+* A world teeming with wildlife
+* The political problem of stopping extinctions
+
+--
+
+**Does every species matter?** 
+
+.tiny[-[The case against the concept of biodiversity](https://www.vox.com/22584103/biodiversity-species-conservation-debate)]
+
+???
+_“You cannot even give an answer unless you say, matter for what?”_ 
+Another example of no one size fits all solution  
+---
+
+class: title title-1
+
+#  Biodiversity and Ecosystem Services
+
+**Ecosystem function** 
+
+--
+
+* Focus on what functions the species perform within an ecosystem as opposed to the overall number of species 
+
+--
+
+* Shifting focus from diversity of species to diversity of traits in a species community
+
+--
+
+**Do we know enough about any specific species and their role within an ecosystem?** 
+
+---
+
+class: title title-1
+
+#  Biodiversity and Ecosystem Services
+
+**Functional groups**: Species that perform similar ecosystem functions or have similar structures
+
+--
+
+**Attributes of species** 
+* Morphology: size, biomass, structure 
+* Physiology: movement, excretion, spawning 
+
+--
+
+**Functional diversity**: Differences in morphological and physiological traits, response traits, and resource use traits
+
+---
+
+class: title title-1
+
+#  Biodiversity and Ecosystem Services
+
+**Response diversity** 
+* _Response traits_: The traits of species that affect their abilities to perform under different environmental conditions 
+* _Response diversity is the degree of variation in response traits formed within a functional group of species_  
+
+--
+
+**It has been shown that response diversity is directly correlated to the capacity of a system to respond to changing conditions without a reduction in system functioning**
+
+---
+
+class: title title-1
+
+# Biodiversity and Ecosystem Services
+
+_In order to preserve the capacity of a community to change in response to changing conditions, **the crucial focus for conservation efforts should be on sustaining the sources of diversity**, rather than a particular set of species, which ensure that there is a continuous supply of species that can compete under current environmental conditions_ 
+
+.tiny[-Norberg, Jon, James Wilson, Brian Walker, and Elinor Ostrom. 2008. “Diversity and Resilience of Social-Ecological Systems.” In Complexity Theory for a Sustainable Future, eds. Jon Norberg and Graeme S. Cumming. New York, NY: Columbia University Press, 46–79.
+]
+
+---
+
+class: title title-1
+
+# Biodiversity and Ecosystem Services
+
+**Three scales of ecosystem diversity** 
+
+--
+
+* _Landscape_: diversity of communities within the landscape 
+
+--
+
+* _Species_: diversity of species within a community 
+
+--
+
+* _Genetic_: diversity of genes within a population of a species 
+
+---
+
+class: title title-1
+
+# Biodiversity and Ecosystem Services
+
+**Sources of diversity** 
+
+**Landscape** 
+
+_Consists of the variability in the land- or seascape, providing a multitude of different conditions for which different sets of attributes are most suited_ 
+
+--
+
+**In a heterogeneous and changing landscape, dispersal, mobility, and ways of enduring unfavorable situations are an essential source of diversity in addition to complementarity between species** 
+
+---
+
+class: title title-1
+
+# Biodiversity and Ecosystem Services
+
+**Sources of diversity** 
+
+.pull-left[
+**Species** 
+
+* Multiple resources 
+* Niche separation (complementarity)
+* Predator-mediated coexistence 
+]
+
+--
+
+.pull-right[
+**Genetic** 
+
+* Allelic diversity 
+* Sympatric speciation 
+]
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Institutions**: the regularized **rules**, **norms**, and **strategies** that agents use in making decisions in repeated situations at multiple levels of analysis
+* _Institutional statements_ 
+
+--
+
+**Governance**: crafting of rules in an effort to improve the incentives, behavior, and outcomes achieved in a situation over time 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Operational-level**: _directly effect state variables in the world_  
+
+.pull-left[
+* Provision 
+* Production 
+* Distribution
+]
+
+.pull-right[
+* Appropriation
+* Assignment 
+* Consumption
+]
+
+--
+
+**A fishers day to day decision about where to fish** 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Collective choice level**: _directly affect rules that affect operational situations_ 
+.pull-left[
+* Prescribing 
+* Invoking
+* Monitoring
+]
+
+.pull-right[
+* Applying 
+* Enforcing 
+]
+
+--
+
+**Establishing a marine protected area** 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Adaptive management**: embrace processes of learning, evaluation, and change as an inherent solution of managing complex systems. 
+* _Institutional diversity_ 
+
+--
+
+**Institutional diversity**
+* Mix of institutional statements 
+* _ADICO_
+
+???
+A = attributes of the persons involved 
+
+D = deontic (must, must not, may)
+
+I = aim 
+
+C = condition involved 
+
+O = or else 
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Institutional statements have a gradient in sanctions** 
+
+--
+
+.pull-left[
+**Strategy**: _AIC_ 
+* _No sanctions_  
+]
+
+--
+
+.pull-right[
+**Norm**: _ADIC_
+* _Internal shame; embarrassment, gossip_ 
+]
+
+--
+
+**Rule**: _ADICO_
+* _A sanction likely to be enforced by authorized individuals_ 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Interdependencies**
+
+--
+* Direct: one rule is needed for other rules to be in use 
+
+--
+
+* Supporting: regulate the effect of a previous rule 
+
+--
+
+* More sensitive to change: cascading impacts 
+
+--
+
+* Regulate spatial extent over which rules are applied 
+  * Community involvement 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Sources of institutional diversity** 
+
+--
+
+* _Information transfer_: learning from other locations; particularly useful among local areas with similar conditions 
+
+--
+
+* _Context transfer_: use a rule in a different context (e.g., v-notch in lobster tail for conservation)
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Managing for diversity** 
+
+--
+* _Spatiotemporal heterogeneity_ 
+  * Introduce moderate disturbances to prevent diversity loss
+  * Changing preferences (e.g., elections)
+  * Ability for local decision-making 
+  
+--
+
+* _Enable local coexistence_ 
+  * Ecosystem: maintain diversity at the base level 
+  * Institutions: diversity of rules used. _How_ rules versus _how much_ 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Managing for diversity** 
+
+_Some species or rules are more critical for the performance of the system than others_ 
+
+--
+
+* Keystone species 
+
+--
+
+* Boundary rules 
+  * Define boundaries 
+  * Use can use the resource 
+
+---
+
+class: title title-1
+
+# Institutional Diversity and Governance 
+
+**Managing for diversity** 
+
+_Balance costs_ 
+
+There are costs associated with sustaining diversity 
+* Ecosystems: suboptimal species; decrease current efficiency but may increase long-term efficiency if conditions change 
+
+--
+* Institutions: 
+  * Cognitive costs 
+  * Collective costs of changing rules 
+
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
